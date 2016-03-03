@@ -1,0 +1,15 @@
+{
+  "name": "frpcproxy",
+  "version": "0.0.0",
+  "description": "A HTTP proxy to FRPC endpoint converting between JSON and FRPC",
+  "main": "scripts/server.js",
+  "keywords": [
+    "FRPC",
+    "x-frpc"
+  ],
+  "author": "Petr Kadlec <mormegil@centrum.cz>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
